@@ -57,3 +57,4 @@ jobs:
           df
           wcho 10. What environment variables are available?
           env
+          
