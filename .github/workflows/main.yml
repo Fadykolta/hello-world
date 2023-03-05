@@ -22,18 +22,3 @@ jobs:
           echo
           echo 3. Is Git installed?
           git --version
-          echo 5. Where is the android SDK root?
-          echo $ANDROID_SDK_ROOT
-          echo
-          echo 6. Where are Selenium jars?
-          echo $SELENUM_JAR_PATH
-          echo
-          echo 7. What is the workspace location?
-          echo $RUNNER_WORKSPACE
-          echo
-          echo 8. Who is running this script?
-          whoami
-          echo 9. How is this disc laid out?
-          df
-          wcho 10. What environment variables are available?
-          env
