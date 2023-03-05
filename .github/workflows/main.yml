@@ -36,8 +36,6 @@ jobs:
           ls -a
           echo
           echo 2. is Java installed?
-          java -verison
-          echo
           echo 3. Is Git installed?
           git --version
           echo 4. What build tolls are installed?
