@@ -34,3 +34,16 @@ jobs:
         run: |
           echo Ad othret actions to build,
           echo test, and deploy your project.
+          
+          echo What is in this directory?
+          ls -a
+          echo
+          echo is Java installed?
+          echo jave -version 
+          echo
+          echo is Git installed 
+          git --version
+          echo what about build tools?
+          mvn --version
+          gradel --version
+          ant -version
